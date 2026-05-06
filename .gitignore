@@ -1,0 +1,8 @@
+.DS_Store
+*.pt
+*.zip
+nbconvert_log.txt
+run_experiment.py
+~$*
+__pycache__/
+.ipynb_checkpoints/
